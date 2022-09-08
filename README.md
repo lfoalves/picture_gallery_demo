@@ -6,7 +6,7 @@
 
 ### Access at: [Picture Gallery](https://picture-gallery-gray.vercel.app/).
 
-<img src='./assets/layout.jpg' />
+<img src='./assets/layout.webp' width='350px'/>
 
 <div style='display: flex; gap: 0.5rem; margin-top: 2rem'><img width='20px' src='./assets/react.svg' /> React
 </div>
